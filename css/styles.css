@@ -11,14 +11,15 @@ body {
 	margin: auto;  
 }
 .main-header {
-	height: 70vh;
-	display: flex;
+	height: 98vh;
+	display: flex; 
 	background-image: url(../img/man-1.jpg);
 	background-size: cover;
 	background-position: center;
 	justify-content: flex-start;
 	align-items: center;
 	text-align: left;
+	
 }
 
 .main-header h1 {
