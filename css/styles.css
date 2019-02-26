@@ -11,7 +11,7 @@ body {
 	margin: auto;  
 }
 .main-header {
-	height: 97vh;
+	height: 70vh;
 	display: flex;
 	background-image: url(../img/man-1.jpg);
 	background-size: cover;
@@ -30,7 +30,7 @@ body {
 
 .main-header p {
     font-size: 2.5em;
-    border: 3px; 
+    font-weight: 30;
     margin: 0.5;
 	color: #ffffff;
 }
